@@ -1,4 +1,4 @@
-# Task-1
+# HYBRID_TASK-1
  Have to create/launch Application using Terraform
 
 1. Create the key and security group which allow the port 80.
